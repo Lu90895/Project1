@@ -51,7 +51,8 @@
   </nav>
     <main>
         <h2>About us</h2>
-        <p></p>
+        <p>Blooming bouquet is a family-owned business opened in 2020. We offer a wide selection of fresh flowers for every occasion.
+            We are also a proud supporter of a non-profit organization called Saving Nature.</p>
     </main>
     <footer>
     <h2>Blooming bouquet</h2>
